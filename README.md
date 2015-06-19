@@ -1,8 +1,18 @@
-# get-abroad.com
-Hotel comparison site
+# ng-nodeJs
 
-killall node
-git clone https://gnovoab@bitbucket.org/gnovoab/ga-webapp.git
-cd ga-webapp
+Sample MEAN application
+
+
+## Getting Started
+
+Clone for git
+```
+git clone https://github.com/gnovoab/ng-nodeJs.git
+```
+
+Install dependencies
+```
 bower install
-sudo npm install
+npm install
+```
+
