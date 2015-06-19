@@ -1,0 +1,21 @@
+{
+  "name": "ng-nodeJs",
+  "version": "0.0.0",
+  "authors": [
+    "gnovoab <gnovoab@gmail.com>"
+  ],
+  "description": "Sample application with Angular and NodeJs",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "public/scripts/vendor",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "~1.4.1",
+    "angular-bootstrap": "~0.13.0"
+  }
+}
