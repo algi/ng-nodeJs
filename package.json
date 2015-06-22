@@ -4,7 +4,7 @@
   "description": "Sample application with angular and nodeJs",
   "main": "server.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "mocha"
   },
   "author": "",
   "license": "ISC",
@@ -16,6 +16,7 @@
     "express": "^4.12.4",
     "method-override": "^2.3.3",
     "morgan": "^1.6.0",
-    "uuid": "^2.0.1"
+    "uuid": "^2.0.1",
+	"mocha": "^2.2.5"
   }
 }
